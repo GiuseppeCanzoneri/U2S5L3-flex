@@ -126,3 +126,18 @@ h3{
     }
 }
 
+.articolo{
+    background-color: #fef7e2; 
+    padding: 1.5rem;
+    border-radius:25px;
+    display: flex;
+    flex-direction: column;
+}
+.articolo p:first-of-type{
+    font-weight: bold;
+    font-size: 1.8rem;
+    margin-bottom: 1.5rem;
+}
+.articolo p:last-of-type{
+    margin-bottom: 1.5rem;
+}
