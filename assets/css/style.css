@@ -49,6 +49,7 @@ h1{
     font-size: 3rem;
     font-weight: bold;
     margin-block: 1.8rem;
+    color: #742204 ;
 }
 #cards{
     display: flex;
@@ -80,10 +81,12 @@ h1{
 }
 .elementi h2{
     font-weight: bold;
+    color: #742204;
 }
 .elementi p{
     font-weight: medium;
     font-size: 1.3rem;
+    color: #742204;
 }
 .add{
     font-weight: bold;
@@ -117,6 +120,7 @@ h3{
     font-size: 2.5rem;
     margin-top: 1.8rem;
     margin-bottom: 0.8rem;
+    color: #742204;
 }
 
 @media screen and (max-width:575px){
@@ -132,6 +136,7 @@ h3{
     border-radius:25px;
     display: flex;
     flex-direction: column;
+    color: #742204;
 }
 .articolo p:first-of-type{
     font-weight: bold;
